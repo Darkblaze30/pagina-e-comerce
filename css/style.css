@@ -1,0 +1,17 @@
+div{
+    display: flex;
+    color: black;
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    justify-items: center;
+    align-items: center;
+}
+
+img{
+    width: 400px;
+    height: 200px;}
+
+h1{
+    text-align: center;
+    justify-items: center;
+}
